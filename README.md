@@ -1,5 +1,4 @@
-👩‍💻 Курс із Git у CyberBionic Systematics 👩‍💻
+👩‍💻 HTML5 & CSS3 Starter in CyberBionic Systematics 👩‍💻
 
-Виконання третього ДЗ (кожна задача у коммітах).
-
-Також це практичне завдання курсу HTML/CSS Starter.
+Layout of the site by design - 
+https://www.figma.com/design/esXg7I5zKTsz3TjU1rNiqR/Fashion-Site?node-id=0-1&p=f&t=k8vqmTKnCAcuyQso-0
